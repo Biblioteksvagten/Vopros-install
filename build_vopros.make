@@ -38,6 +38,10 @@ projects[feeds][version] = 2.0-alpha7
 
 projects[token][version] = 1.4
 
+projects[finurlig_widget][type] = module
+projects[finurlig_widget][download][type] = git
+projects[finurlig_widget][download][tag] = 7.x-1.3
+projects[finurlig_widget][download][url] = "https://github.com/aakb/finurlig_widget.git"
 
 ; Custom modules.
 
