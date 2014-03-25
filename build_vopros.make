@@ -4,7 +4,7 @@ api = 2
 core = 7.x
 
 projects[drupal] = drupal
-projects[drupal][version] = 7.22
+projects[drupal][version] = 7.17
 
 projects[vopros][type] = "profile"
 projects[vopros][download][type] = "git"
