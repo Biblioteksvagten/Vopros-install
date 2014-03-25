@@ -32,7 +32,7 @@ projects[bv_vopros_services][download][url] = "https://github.com/Biblioteksvagt
 ; at some time.
 projects[ctools][version] = 1.2
 
-projects[date][version] = 2.6
+projects[date][version] = 2.5
 
 projects[feeds][version] = 2.0-alpha7
 
