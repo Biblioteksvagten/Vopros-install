@@ -25,19 +25,6 @@ projects[bv_vopros_services][type] = module
 projects[bv_vopros_services][download][type] = git
 projects[bv_vopros_services][download][url] = "https://github.com/Biblioteksvagten/bv_vopros_services.git"
 
-
-; Obsoleted custom modules. These is already part of Vopros core, but
-; as the site is currently using the sites/all/module versions, we're
-; keeping them here to not break the site. They should be cleaned up
-; at some time.
-projects[ctools][version] = 1.2
-
-projects[date][version] = 2.5
-
-projects[feeds][version] = 2.0-alpha7
-
-projects[token][version] = 1.4
-
 projects[finurlig_widget][type] = module
 projects[finurlig_widget][download][type] = git
 projects[finurlig_widget][download][tag] = 7.x-1.3
