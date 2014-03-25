@@ -57,15 +57,6 @@ diff -u -r new/robots.txt old/robots.txt
 -Disallow: /?q=user/logout/
 +
 +Disallow: /
-diff -u -r new/sites/all/modules/bv_vopros_services/bv_vopros_services.info old/sites/all/modules/bv_vopros_services/bv_vopros_services.info
---- new/sites/all/modules/bv_vopros_services/bv_vopros_services.info	2014-03-25 09:44:21.000000000 +0100
-+++ old/sites/all/modules/bv_vopros_services/bv_vopros_services.info	2013-12-19 09:16:22.000000000 +0100
-@@ -1,5 +1,4 @@
- name = BV Vopros Services
--description = Services module for BV.
- core = 7.x
- package = Vopros
- php = 5.2.4
 diff -u -r new/themes/bartik/css/style.css old/themes/bartik/css/style.css
 --- new/themes/bartik/css/style.css	2012-11-07 22:42:13.000000000 +0100
 +++ old/themes/bartik/css/style.css	2012-11-20 12:54:31.000000000 +0100
