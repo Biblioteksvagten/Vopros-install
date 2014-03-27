@@ -53,6 +53,8 @@ projects[transliteration][version] = 3.0
 
 projects[wysiwyg][version] = 2.1
 
+projects[environment_indicator][version] = 2.2
+
 
 ; Custom libraries.
 
