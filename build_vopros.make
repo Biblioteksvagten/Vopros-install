@@ -4,7 +4,7 @@ api = 2
 core = 7.x
 
 projects[drupal] = drupal
-projects[drupal][version] = 7.17
+projects[drupal][version] = 7.26
 ; githubusercontent seems to cache the file from the branch, so we
 ; point at a specific revision.
 projects[drupal][patch][] = "https://raw.githubusercontent.com/Biblioteksvagten/Vopros-install/9b9ef1fa96137c013defaea6e05fddbed0bb4692/bibv.patch"
@@ -45,7 +45,7 @@ projects[l10n_client][version] = 1.1
 
 projects[l10n_update][version] = 1.0-beta3
 
-projects[media][version] = 1.3
+projects[media][version] = 1.4
 
 projects[scheduler][version] = 1.0
 
