@@ -33,6 +33,10 @@ projects[finurlig_widget][download][type] = git
 projects[finurlig_widget][download][tag] = 7.x-1.3
 projects[finurlig_widget][download][url] = "https://github.com/aakb/finurlig_widget.git"
 
+projects[vopros_embed][type] = module
+projects[vopros_embed][download][type] = git
+projects[vopros_embed][download][url] = "https://github.com/Biblioteksvagten/vopros_embed.git"
+
 ; Custom modules.
 
 projects[devel][version] = 1.2
